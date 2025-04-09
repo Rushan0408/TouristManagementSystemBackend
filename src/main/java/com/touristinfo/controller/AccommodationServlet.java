@@ -3,7 +3,6 @@ package com.touristinfo.controller;
 import com.touristinfo.model.Accommodation;
 import com.touristinfo.service.AccommodationService;
 
-import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
